@@ -3,9 +3,9 @@
 ### Sobre mim 👨‍💻:
 
 
-💻 Eu sou um desenvolvedor [Back-End]
+💻 desenvolvedor [Back-End]
 
-🎓 Eu estudo [ Desenvolvimento de Software com Foco em Back-End | Ciência da Computação] na [ Cubos Academy e Faculdade fbv wyden]
+🎓 [ Desenvolvimento de Software com Foco em Back-End | Ciência da Computação] na [ Cubos Academy e Faculdade fbv wyden]
 
 👩‍💻 Atualmente em Busca do primeiro SIM
 
