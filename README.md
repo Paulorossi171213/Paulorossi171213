@@ -9,7 +9,7 @@
 
 👩‍💻 Atualmente em Busca do primeiro SIM
 
-🔎 Também sou curioso sobre e estou aprendendo sobre web scraping
+🔎 Também sou curioso e estou aprendendo sobre web scraping
 
 
 ### GitHub Stats ⚡
