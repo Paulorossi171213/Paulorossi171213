@@ -1,4 +1,4 @@
-### Oi, me chamo Paulo Rossi 👋
+### Seja bem vindo,Sou o Paulo Rossi 👋
 
 ### Sobre mim 👨‍💻:
 
