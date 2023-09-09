@@ -1,4 +1,4 @@
-### Seja bem vindo,Sou o Paulo Rossi 👋
+### Seja bem vindos ao meu git Hub 👋
 
 ### Sobre mim 👨‍💻:
 
