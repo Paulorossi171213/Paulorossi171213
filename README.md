@@ -1,6 +1,6 @@
 ### Seja bem vindos ao meu git Hub 👋
 
-### Sobre mim 👨‍💻:
+### Me chamo Paulo Rossi estou em transção de carreira para de tecnologia. 👨‍💻:
 
 
 💻 desenvolvedor [Back-End]
